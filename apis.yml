@@ -20,6 +20,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/nationaloilwellvarco
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/novglobal
   - url: https://www.nov.com
     name: Website
     type: Website
